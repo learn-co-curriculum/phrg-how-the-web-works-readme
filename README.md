@@ -120,6 +120,4 @@ It gets a little bit more complex with a webapp. The client makes a request, the
 
 <a href='https://learn.co/lessons/how-the-web-works-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/how-the-web-works-readme'>How the Internet Works</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/how-the-web-works-readme'>How the Internet Works</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG How The Web Works</p>
