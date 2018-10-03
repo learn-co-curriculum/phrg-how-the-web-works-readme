@@ -118,6 +118,9 @@ When the client wants to load a static site, the client makes a request, the ser
 
 It gets a little bit more complex with a webapp. The client makes a request, the server runs application code (think of this as your Ruby code), and returns a dynamically generated response. 
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-how-the-web-works-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-how-the-web-works-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <a href='https://learn.co/lessons/how-the-web-works-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <p data-visibility='hidden'>PHRG How The Web Works</p>
